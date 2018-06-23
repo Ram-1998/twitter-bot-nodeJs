@@ -1,0 +1,19 @@
+{
+  "name": "twitter-chatbot",
+  "version": "1.0.0",
+  "description": "A simple chatbot for twitter which can tweet, Retweet and notify you after tweet of any of your following.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "tweet",
+    "twitter",
+    "chatbot"
+  ],
+  "author": "Shree Ram Bansal",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.10"
+  }
+}
